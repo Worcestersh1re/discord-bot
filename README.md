@@ -1,5 +1,4 @@
 # discord-bot
-# filename: role_select_member_bot.py
 import os
 import discord
 from discord.ext import commands
